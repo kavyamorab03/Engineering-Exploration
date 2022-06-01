@@ -1,2 +1,0 @@
-# Problem definition version 1.2:-
-Design an automatic portable loading and unloading machine, which can increase the productivity, reduce the human efforts, decrease the production time and increase the quality.Machine dimension is 1ftX1ftX1ft,should be able to hold upto 200g,and it should be weighs around 2kg,budget should not exceed Rs.4000,it should be minimum 3DOF and colour is yellow or blue. 
