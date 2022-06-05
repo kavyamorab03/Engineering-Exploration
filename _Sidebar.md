@@ -1,0 +1,15 @@
+#  **3.Concept Evaluation And Selected Concept**
+
+## 3.1 Pugh Chart
+
+|Design Objectives|Weights|Design 1|Design 2|Design 3|Design 4|
+|-----------------|------|--------|--------|--------|--------|
+|Safety| | | | | |
+|Ease of use| | | | | |
+|Portability| | | | | |
+|Use of standard parts| | | | | |
+|Cost| | | | | |
+|Score(+)| | | | | |
+|Score(-)| | | | | |
+|Total| | | | | |
+
